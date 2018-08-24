@@ -1,6 +1,6 @@
-# viswiz_sdk
+# VisWiz.io Ruby SDK
 
-ViswizSdk - the Ruby gem for the VisWiz.io API Documentation
+`ViswizSdk` - the Ruby gem for the VisWiz.io API Documentation
 
 This SDK allows you to query and create new projects, builds or images within the VisWiz service.
 
